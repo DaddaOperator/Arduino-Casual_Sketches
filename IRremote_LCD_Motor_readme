@@ -1,0 +1,7 @@
+In this mini project it is possible to control a stepper motor through an infrared remote control, 
+remaining monitored on the current status of the system through an LCD display and a red LED.
+The stepper motor can be connected to any secondary device that needs the mechanical power of the motor.
+For more informations you can read the comments on the sketch file.
+
+For the circuit realization I am using an arduino mega with the various components described above and 
+I will soon upload a file with the diagram relating to the electrical connections with all the details.
