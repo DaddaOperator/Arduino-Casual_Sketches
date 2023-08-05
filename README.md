@@ -1,2 +1,2 @@
-# Arduino-LCD_Stepper_IR
-Arduino sketch with a remote controller, lcd display monitor and a stepper motor.
+# Arduino- Casual Sketches
+Here you can find various Arduino sketches made entirely by me with the corresponding hardware circuit.
