@@ -1,0 +1,14 @@
+This project involves the use of a joystick. Depending on the movement of the controller,
+a corresponding LED configuration will light up on an 8x8 LED matrix (see hardware information)
+and one of the 4 LEDs arranged in a cross corresponding to the direction of the joystick will light up.
+When the joystick button is pressed, the 4 leds arranged in a cross will light up simultaneously 
+for a fraction of a second.
+
+The circuit also provides, thanks to the presence of a photoresistor, that other 3 additional LEDs
+light up when the detected brightness drops below a predefined threshold level, however this feature 
+has nothing to do with the joystick functions but they are only an additional implementation on the same circuit.
+
+For more informations you can read the comments on the sketch file.
+
+For the circuit realization I am using an arduino mega with the various components described above and 
+I will soon upload a file with the diagram relating to the electrical connections with all the details.
